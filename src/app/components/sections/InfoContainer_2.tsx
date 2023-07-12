@@ -6,16 +6,16 @@ export const InfoContainer_2 = () => {
       <div className="z-2 min-w-auto container relative mx-auto max-w-7xl text-center">
         <div className="max-auto mx-auto max-w-[540px] text-center lg:max-w-[800px]">
           <h2 className="mb-3  block max-w-[600px] text-center text-4xl font-bold tracking-tight text-black md:max-w-none md:text-6xl">
-            It's Time to{" "}
+            It&apos;s Time to
             <span className="decoration-6 underline decoration-main underline-offset-8">
-              "Savor"
-            </span>{" "}
+              &quot;Savor&quot;
+            </span>
             The Web
           </h2>
           <p className="text-thin-black mx-auto mt-10 max-w-[600px] text-2xl tracking-wide text-black">
             StirDigital sidesteps unpredictable freelancers and overpriced
             firms, providing quality designs for a consistent monthly rate that
-            gets you online before you can say "table for two"
+            gets you online before you can say &quot;table for two&quot;
           </p>
         </div>
         <div className="mt-[60px] grid auto-rows-auto grid-cols-1 gap-x-14 gap-y-14 md:mt-[100px] md:grid-cols-2 ">
@@ -36,7 +36,8 @@ export const InfoContainer_2 = () => {
                 Fully Async
               </div>
               <div className="max-w-[490px] text-[17px] leading-6 text-black">
-                Who needs meetings? We sure don't. We've ditched them for good.
+                Who needs meetings? We sure don&apos;t. We&apos;ve ditched them
+                for good.
               </div>
             </div>
             <div className="mb-10 text-left ">

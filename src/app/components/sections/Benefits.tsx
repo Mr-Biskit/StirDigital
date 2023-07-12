@@ -89,7 +89,7 @@ const Benefits = () => {
             </div>
             <div className="max-w-[490px] text-[17px] leading-6 text-black">
               Reach more customers with multi-language support, even in our
-              basic plan. Speak everyone's language.
+              basic plan. Speak everyone&apos;s language.
             </div>
           </div>
         </div>

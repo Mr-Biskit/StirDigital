@@ -37,7 +37,7 @@ const InfoContainer: FC<InfoContainerProps> = ({}) => {
             <div className="mx-auto max-w-none text-lg  text-black md:max-w-[300px] ">
               {" "}
               Like a carefully plated dish, our plans cater to every pocket,
-              ensuring quality doesn't come at a steep cost.
+              ensuring quality doesn&apos;t come at a steep cost.
             </div>
           </div>
           <div className="mx-auto max-w-[320px] ">
@@ -54,8 +54,8 @@ const InfoContainer: FC<InfoContainerProps> = ({}) => {
               <Pie />
             </div>
             <div className="mx-auto max-w-none text-lg  text-black md:max-w-[300px] ">
-              Launch a website that's ready-to-go, baked with the latest tech
-              trends.
+              Launch a website that&apos;s ready-to-go, baked with the latest
+              tech trends.
             </div>
           </div>
         </div>
@@ -67,8 +67,8 @@ const InfoContainer: FC<InfoContainerProps> = ({}) => {
               className="mx-auto mb-7 max-w-full"
             />
             <div className="text-2xl font-bold md:text-3xl lg:text-4xl">
-              80% Diners said they are likely to visit a restaurant's website
-              before they dine
+              80% Diners said they are likely to visit a restaurant&apos;s
+              website before they dine
             </div>
             <img
               src="/images/mgh.svg"

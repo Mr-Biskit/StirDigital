@@ -55,7 +55,7 @@ const Pricing = () => {
 
             <div className="mt-[2px] min-h-0 bg-creme p-8 text-left lg:min-h-[476px] ">
               <div>
-                <div className="text-left font-bold">What's included:</div>
+                <div className="text-left font-bold">What&apos;s included:</div>
                 <ul className="mb-3 mt-5 block list-inside list-disc pl-2">
                   <li className="mb-3 text-sm">Hosting Included</li>
                   <li className="mb-3 text-sm">Online Menu</li>
@@ -109,7 +109,7 @@ const Pricing = () => {
 
             <div className="mt-[2px] min-h-0 bg-creme p-8 text-left lg:min-h-[476px] ">
               <div>
-                <div className="text-left font-bold">What's included:</div>
+                <div className="text-left font-bold">What&apos;s included:</div>
                 <ul className="mb-3 mt-5 block list-inside list-disc pl-2">
                   <li className="mb-3 text-sm">
                     All features of the Basic Plan
@@ -156,7 +156,7 @@ const Pricing = () => {
 
             <div className="mt-[2px] min-h-0 bg-creme p-8 text-left lg:min-h-[476px] ">
               <div>
-                <div className="text-left font-bold">What's included:</div>
+                <div className="text-left font-bold">What&apos;s included:</div>
                 <ul className="mb-3 mt-5 block list-inside list-disc pl-2">
                   <li className="mb-3 text-sm">
                     All features of the Premium Plan
